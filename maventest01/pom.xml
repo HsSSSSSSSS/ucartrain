@@ -10,7 +10,8 @@
     <artifactId>Parent</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!-- 以当前文件为基准的父工程pom.xml文件的相对路径 -->
+
+      <!-- 以当前文件为基准的父工程pom.xml文件的相对路径 -->
     <relativePath>../Parent/pom.xml</relativePath>
   </parent>
 

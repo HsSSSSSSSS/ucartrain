@@ -1,9 +1,5 @@
 package shuai.hou01;
 
-/**
- * Hello world!
- *
- */
 public class MakeFriends {
 
     public String makeFriends(String name){

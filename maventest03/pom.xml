@@ -26,6 +26,7 @@
       <artifactId>junit</artifactId>
       <scope>test</scope>
     </dependency>
+
     <!-- <dependency>
         <groupId>com.atguigu.maven</groupId>
         <artifactId>OurFriends</artifactId>

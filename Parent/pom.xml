@@ -16,6 +16,7 @@
         <module>../maventest01</module>
     </modules>
 
+
     <!-- 配置依赖的管理 -->
     <dependencyManagement>
         <dependencies>
