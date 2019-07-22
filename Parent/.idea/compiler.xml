@@ -10,6 +10,7 @@
         <module name="maventest03" />
         <module name="maventest02" />
         <module name="maventest01" />
+        <module name="jstest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
