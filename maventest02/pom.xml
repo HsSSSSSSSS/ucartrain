@@ -28,18 +28,6 @@
 
     <dependency>
       <groupId>shuai.hou01</groupId>
-      <artifactId>Hello</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <groupId>commons-logging</groupId>
-          <artifactId>commons-logging</artifactId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>shuai.hou01</groupId>
       <artifactId>maventest01</artifactId>
       <version>1.0-SNAPSHOT</version>
       <scope>compile</scope>

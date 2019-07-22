@@ -34,22 +34,8 @@
     </dependency> -->
     <dependency>
       <groupId>shuai.hou01</groupId>
-      <artifactId>Hello</artifactId>
-      <version>1.0-SNAPSHOT</version>
-      <type>jar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>shuai.hou01</groupId>
       <artifactId>maventest01</artifactId>
       <version>1.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>shuai.hou01</groupId>
-      <artifactId>HelloFriend</artifactId>
-      <version>1.0-SNAPSHOT</version>
-      <type>jar</type>
-      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>shuai.hou01</groupId>
